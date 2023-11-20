@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "d05c1869-ec23-ac70-c7bf-6d5de0402843",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "CorrectAnswer3_Texture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

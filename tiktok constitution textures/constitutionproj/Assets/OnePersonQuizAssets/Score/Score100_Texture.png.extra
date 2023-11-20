@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "c6c51cd3-6a22-9ace-10f7-1ace739e8251",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Score100_Texture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

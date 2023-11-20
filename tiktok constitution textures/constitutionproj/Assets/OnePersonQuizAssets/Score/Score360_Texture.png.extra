@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "3b00c54d-6a55-c5f5-2a52-a9d1e9932d6e",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Score360_Texture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

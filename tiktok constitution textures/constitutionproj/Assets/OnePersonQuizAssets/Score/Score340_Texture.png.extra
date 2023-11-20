@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "b51c9f60-d31a-6711-592c-00d5bf6d5e46",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Score340_Texture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "2cf350a9-362b-0ff4-7dea-31b8706a8f94",
+      "b": ""
+    },
+    "extraType": "ResItemGraphMaterial",
+    "name": "ProgressBar_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5047483547794177772, 16219629848951311288)",
+    "references": []
+  }
+]
